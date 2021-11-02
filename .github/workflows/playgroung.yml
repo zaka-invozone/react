@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: "10.x"
       - run: npm install
-      - run: echo ${{env.GITHUB_JOB}}
-      - run: PUBLIC_URL=https://zaka-invozone.github.io/react/${{job.container.id}} npm run build
+      - run: echo ${{ env.GITHUB_JOB }}
+      - run: PUBLIC_URL=https://zaka-invozone.github.io/react/${{ job.container.id }} npm run build
       - run: npm test
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v1
