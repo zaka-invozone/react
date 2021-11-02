@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: "10.x"
       - run: npm install
-      - run: PUBLIC_URL=/react/${{env.GITHUB_JOB}} react-scripts build
+      - run: PUBLIC_URL=/react/${{env.GITHUB_JOB}} npm run build
       - run: npm test
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v1
