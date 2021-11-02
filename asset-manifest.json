@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://zaka-invozone.github.io/react/build-test-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/main.97f40dd6.chunk.js",
+    "main.js.map": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/main.97f40dd6.chunk.js.map",
+    "runtime-main.js": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/runtime-main.a8a773e8.js",
+    "runtime-main.js.map": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/runtime-main.a8a773e8.js.map",
+    "static/js/2.214e1e36.chunk.js": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/2.214e1e36.chunk.js",
+    "static/js/2.214e1e36.chunk.js.map": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/2.214e1e36.chunk.js.map",
+    "index.html": "https://zaka-invozone.github.io/react/build-test-deploy/index.html",
+    "precache-manifest.0c0e3af54fdf91f64031f047e3712b67.js": "https://zaka-invozone.github.io/react/build-test-deploy/precache-manifest.0c0e3af54fdf91f64031f047e3712b67.js",
+    "service-worker.js": "https://zaka-invozone.github.io/react/build-test-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://zaka-invozone.github.io/react/build-test-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.214e1e36.chunk.js.LICENSE.txt": "https://zaka-invozone.github.io/react/build-test-deploy/static/js/2.214e1e36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a773e8.js",
+    "static/js/2.214e1e36.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.97f40dd6.chunk.js"
+  ]
+}
